@@ -1,0 +1,15 @@
+K:\ProC#\Collections\CollectionSamples\BitArraySample\bin\Debug\BitArraySample.exe
+K:\ProC#\Collections\CollectionSamples\BitArraySample\bin\Debug\BitArraySample.pdb
+K:\ProC#\Collections\CollectionSamples\BitArraySample\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC#\Collections\CollectionSamples\BitArraySample\obj\Debug\BitArraySample.exe
+K:\ProC#\Collections\CollectionSamples\BitArraySample\obj\Debug\BitArraySample.pdb
+K:\ProC# 4.0\code\Collections\CollectionsSamples\BitArraySample\bin\Debug\BitArraySample.exe
+K:\ProC# 4.0\code\Collections\CollectionsSamples\BitArraySample\bin\Debug\BitArraySample.pdb
+K:\ProC# 4.0\code\Collections\CollectionsSamples\BitArraySample\obj\Debug\ResolveAssemblyReference.cache
+K:\ProC# 4.0\code\Collections\CollectionsSamples\BitArraySample\obj\Debug\BitArraySample.exe
+K:\ProC# 4.0\code\Collections\CollectionsSamples\BitArraySample\obj\Debug\BitArraySample.pdb
+E:\Desktop\MSU Study\.Net\Lab\CollectionsSamples\BitArraySample\bin\Debug\BitArraySample.exe
+E:\Desktop\MSU Study\.Net\Lab\CollectionsSamples\BitArraySample\bin\Debug\BitArraySample.pdb
+E:\Desktop\MSU Study\.Net\Lab\CollectionsSamples\BitArraySample\obj\Debug\BitArraySample.csproj.CoreCompileInputs.cache
+E:\Desktop\MSU Study\.Net\Lab\CollectionsSamples\BitArraySample\obj\Debug\BitArraySample.exe
+E:\Desktop\MSU Study\.Net\Lab\CollectionsSamples\BitArraySample\obj\Debug\BitArraySample.pdb

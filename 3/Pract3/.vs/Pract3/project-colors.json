@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "03f4cca0-4921-4ec4-b061-d2c3aa559c30": {
+      "ProjectGuid": "03f4cca0-4921-4ec4-b061-d2c3aa559c30",
+      "DisplayName": "Pract3",
+      "ColorIndex": 0
+    },
+    "78dd9265-2a37-4685-9a04-082573ab4589": {
+      "ProjectGuid": "78dd9265-2a37-4685-9a04-082573ab4589",
+      "DisplayName": "Properties",
+      "ColorIndex": 1
+    },
+    "0dd1bde6-1039-4ca3-8873-eaa9521ea933": {
+      "ProjectGuid": "0dd1bde6-1039-4ca3-8873-eaa9521ea933",
+      "DisplayName": "Indexers",
+      "ColorIndex": 2
+    },
+    "3a38ebda-4602-4b9e-b024-87d3037065b6": {
+      "ProjectGuid": "3a38ebda-4602-4b9e-b024-87d3037065b6",
+      "DisplayName": "Employee",
+      "ColorIndex": 3
+    },
+    "6a45e207-67bf-4d42-9775-bbfecb093232": {
+      "ProjectGuid": "6a45e207-67bf-4d42-9775-bbfecb093232",
+      "DisplayName": "Classes",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

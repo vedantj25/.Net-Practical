@@ -1,0 +1,15 @@
+E:\Desktop\MSU Study\.Net\Lab\3\Properties\bin\Debug\net6.0\Properties.exe
+E:\Desktop\MSU Study\.Net\Lab\3\Properties\bin\Debug\net6.0\Properties.deps.json
+E:\Desktop\MSU Study\.Net\Lab\3\Properties\bin\Debug\net6.0\Properties.runtimeconfig.json
+E:\Desktop\MSU Study\.Net\Lab\3\Properties\bin\Debug\net6.0\Properties.dll
+E:\Desktop\MSU Study\.Net\Lab\3\Properties\bin\Debug\net6.0\ref\Properties.dll
+E:\Desktop\MSU Study\.Net\Lab\3\Properties\bin\Debug\net6.0\Properties.pdb
+E:\Desktop\MSU Study\.Net\Lab\3\Properties\obj\Debug\net6.0\Properties.csproj.AssemblyReference.cache
+E:\Desktop\MSU Study\.Net\Lab\3\Properties\obj\Debug\net6.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\MSU Study\.Net\Lab\3\Properties\obj\Debug\net6.0\Properties.AssemblyInfoInputs.cache
+E:\Desktop\MSU Study\.Net\Lab\3\Properties\obj\Debug\net6.0\Properties.AssemblyInfo.cs
+E:\Desktop\MSU Study\.Net\Lab\3\Properties\obj\Debug\net6.0\Properties.csproj.CoreCompileInputs.cache
+E:\Desktop\MSU Study\.Net\Lab\3\Properties\obj\Debug\net6.0\Properties.dll
+E:\Desktop\MSU Study\.Net\Lab\3\Properties\obj\Debug\net6.0\ref\Properties.dll
+E:\Desktop\MSU Study\.Net\Lab\3\Properties\obj\Debug\net6.0\Properties.pdb
+E:\Desktop\MSU Study\.Net\Lab\3\Properties\obj\Debug\net6.0\Properties.genruntimeconfig.cache

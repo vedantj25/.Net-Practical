@@ -1,0 +1,15 @@
+E:\Desktop\MSU Study\.Net\Lab\DelegatesAndGenericMethods\bin\Debug\net6.0\DelegatesAndGenericMethods.exe
+E:\Desktop\MSU Study\.Net\Lab\DelegatesAndGenericMethods\bin\Debug\net6.0\DelegatesAndGenericMethods.deps.json
+E:\Desktop\MSU Study\.Net\Lab\DelegatesAndGenericMethods\bin\Debug\net6.0\DelegatesAndGenericMethods.runtimeconfig.json
+E:\Desktop\MSU Study\.Net\Lab\DelegatesAndGenericMethods\bin\Debug\net6.0\DelegatesAndGenericMethods.dll
+E:\Desktop\MSU Study\.Net\Lab\DelegatesAndGenericMethods\bin\Debug\net6.0\ref\DelegatesAndGenericMethods.dll
+E:\Desktop\MSU Study\.Net\Lab\DelegatesAndGenericMethods\bin\Debug\net6.0\DelegatesAndGenericMethods.pdb
+E:\Desktop\MSU Study\.Net\Lab\DelegatesAndGenericMethods\obj\Debug\net6.0\DelegatesAndGenericMethods.csproj.AssemblyReference.cache
+E:\Desktop\MSU Study\.Net\Lab\DelegatesAndGenericMethods\obj\Debug\net6.0\DelegatesAndGenericMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\MSU Study\.Net\Lab\DelegatesAndGenericMethods\obj\Debug\net6.0\DelegatesAndGenericMethods.AssemblyInfoInputs.cache
+E:\Desktop\MSU Study\.Net\Lab\DelegatesAndGenericMethods\obj\Debug\net6.0\DelegatesAndGenericMethods.AssemblyInfo.cs
+E:\Desktop\MSU Study\.Net\Lab\DelegatesAndGenericMethods\obj\Debug\net6.0\DelegatesAndGenericMethods.csproj.CoreCompileInputs.cache
+E:\Desktop\MSU Study\.Net\Lab\DelegatesAndGenericMethods\obj\Debug\net6.0\DelegatesAndGenericMethods.dll
+E:\Desktop\MSU Study\.Net\Lab\DelegatesAndGenericMethods\obj\Debug\net6.0\ref\DelegatesAndGenericMethods.dll
+E:\Desktop\MSU Study\.Net\Lab\DelegatesAndGenericMethods\obj\Debug\net6.0\DelegatesAndGenericMethods.pdb
+E:\Desktop\MSU Study\.Net\Lab\DelegatesAndGenericMethods\obj\Debug\net6.0\DelegatesAndGenericMethods.genruntimeconfig.cache

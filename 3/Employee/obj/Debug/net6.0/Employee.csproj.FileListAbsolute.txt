@@ -1,0 +1,15 @@
+E:\Desktop\MSU Study\.Net\Lab\3\Employee\bin\Debug\net6.0\Employee.exe
+E:\Desktop\MSU Study\.Net\Lab\3\Employee\bin\Debug\net6.0\Employee.deps.json
+E:\Desktop\MSU Study\.Net\Lab\3\Employee\bin\Debug\net6.0\Employee.runtimeconfig.json
+E:\Desktop\MSU Study\.Net\Lab\3\Employee\bin\Debug\net6.0\Employee.dll
+E:\Desktop\MSU Study\.Net\Lab\3\Employee\bin\Debug\net6.0\ref\Employee.dll
+E:\Desktop\MSU Study\.Net\Lab\3\Employee\bin\Debug\net6.0\Employee.pdb
+E:\Desktop\MSU Study\.Net\Lab\3\Employee\obj\Debug\net6.0\Employee.csproj.AssemblyReference.cache
+E:\Desktop\MSU Study\.Net\Lab\3\Employee\obj\Debug\net6.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\MSU Study\.Net\Lab\3\Employee\obj\Debug\net6.0\Employee.AssemblyInfoInputs.cache
+E:\Desktop\MSU Study\.Net\Lab\3\Employee\obj\Debug\net6.0\Employee.AssemblyInfo.cs
+E:\Desktop\MSU Study\.Net\Lab\3\Employee\obj\Debug\net6.0\Employee.csproj.CoreCompileInputs.cache
+E:\Desktop\MSU Study\.Net\Lab\3\Employee\obj\Debug\net6.0\Employee.dll
+E:\Desktop\MSU Study\.Net\Lab\3\Employee\obj\Debug\net6.0\ref\Employee.dll
+E:\Desktop\MSU Study\.Net\Lab\3\Employee\obj\Debug\net6.0\Employee.pdb
+E:\Desktop\MSU Study\.Net\Lab\3\Employee\obj\Debug\net6.0\Employee.genruntimeconfig.cache

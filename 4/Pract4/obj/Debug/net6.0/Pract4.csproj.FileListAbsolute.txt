@@ -1,0 +1,15 @@
+E:\Desktop\MSU Study\.Net\Lab\4\Pract4\bin\Debug\net6.0\Pract4.exe
+E:\Desktop\MSU Study\.Net\Lab\4\Pract4\bin\Debug\net6.0\Pract4.deps.json
+E:\Desktop\MSU Study\.Net\Lab\4\Pract4\bin\Debug\net6.0\Pract4.runtimeconfig.json
+E:\Desktop\MSU Study\.Net\Lab\4\Pract4\bin\Debug\net6.0\Pract4.dll
+E:\Desktop\MSU Study\.Net\Lab\4\Pract4\bin\Debug\net6.0\ref\Pract4.dll
+E:\Desktop\MSU Study\.Net\Lab\4\Pract4\bin\Debug\net6.0\Pract4.pdb
+E:\Desktop\MSU Study\.Net\Lab\4\Pract4\obj\Debug\net6.0\Pract4.csproj.AssemblyReference.cache
+E:\Desktop\MSU Study\.Net\Lab\4\Pract4\obj\Debug\net6.0\Pract4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\MSU Study\.Net\Lab\4\Pract4\obj\Debug\net6.0\Pract4.AssemblyInfoInputs.cache
+E:\Desktop\MSU Study\.Net\Lab\4\Pract4\obj\Debug\net6.0\Pract4.AssemblyInfo.cs
+E:\Desktop\MSU Study\.Net\Lab\4\Pract4\obj\Debug\net6.0\Pract4.csproj.CoreCompileInputs.cache
+E:\Desktop\MSU Study\.Net\Lab\4\Pract4\obj\Debug\net6.0\Pract4.dll
+E:\Desktop\MSU Study\.Net\Lab\4\Pract4\obj\Debug\net6.0\ref\Pract4.dll
+E:\Desktop\MSU Study\.Net\Lab\4\Pract4\obj\Debug\net6.0\Pract4.pdb
+E:\Desktop\MSU Study\.Net\Lab\4\Pract4\obj\Debug\net6.0\Pract4.genruntimeconfig.cache

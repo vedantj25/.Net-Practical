@@ -1,0 +1,15 @@
+D:\.Net\Vedant\Assignment7\obj\Debug\net6.0\Assignment7.csproj.AssemblyReference.cache
+D:\.Net\Vedant\Assignment7\obj\Debug\net6.0\Assignment7.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Vedant\Assignment7\obj\Debug\net6.0\Assignment7.AssemblyInfoInputs.cache
+D:\.Net\Vedant\Assignment7\obj\Debug\net6.0\Assignment7.AssemblyInfo.cs
+D:\.Net\Vedant\Assignment7\obj\Debug\net6.0\Assignment7.csproj.CoreCompileInputs.cache
+D:\.Net\Vedant\Assignment7\bin\Debug\net6.0\Assignment7.exe
+D:\.Net\Vedant\Assignment7\bin\Debug\net6.0\Assignment7.deps.json
+D:\.Net\Vedant\Assignment7\bin\Debug\net6.0\Assignment7.runtimeconfig.json
+D:\.Net\Vedant\Assignment7\bin\Debug\net6.0\Assignment7.dll
+D:\.Net\Vedant\Assignment7\bin\Debug\net6.0\Assignment7.pdb
+D:\.Net\Vedant\Assignment7\obj\Debug\net6.0\Assignment7.dll
+D:\.Net\Vedant\Assignment7\obj\Debug\net6.0\refint\Assignment7.dll
+D:\.Net\Vedant\Assignment7\obj\Debug\net6.0\Assignment7.pdb
+D:\.Net\Vedant\Assignment7\obj\Debug\net6.0\Assignment7.genruntimeconfig.cache
+D:\.Net\Vedant\Assignment7\obj\Debug\net6.0\ref\Assignment7.dll

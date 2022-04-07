@@ -1,0 +1,12 @@
+﻿int a, b;
+int r;
+double d;
+Console.WriteLine("Please enter the numerator: ");
+a = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Please enter the denominator: ");
+b = Convert.ToInt32(Console.ReadLine());
+d = (double)a / b;
+r = a % b;
+Console.WriteLine($"Integer division result = {(int)d} with a remainder {r}");
+Console.WriteLine($"Floating point division result = {d}");
+Console.WriteLine($"The result as a mixed fraction is {(int)d} {r}/{b}");

@@ -1,0 +1,15 @@
+E:\Desktop\MSU Study\.Net\Lab\DelegateWithLambda\bin\Debug\net6.0\DelegateWithLambda.exe
+E:\Desktop\MSU Study\.Net\Lab\DelegateWithLambda\bin\Debug\net6.0\DelegateWithLambda.deps.json
+E:\Desktop\MSU Study\.Net\Lab\DelegateWithLambda\bin\Debug\net6.0\DelegateWithLambda.runtimeconfig.json
+E:\Desktop\MSU Study\.Net\Lab\DelegateWithLambda\bin\Debug\net6.0\DelegateWithLambda.dll
+E:\Desktop\MSU Study\.Net\Lab\DelegateWithLambda\bin\Debug\net6.0\ref\DelegateWithLambda.dll
+E:\Desktop\MSU Study\.Net\Lab\DelegateWithLambda\bin\Debug\net6.0\DelegateWithLambda.pdb
+E:\Desktop\MSU Study\.Net\Lab\DelegateWithLambda\obj\Debug\net6.0\DelegateWithLambda.csproj.AssemblyReference.cache
+E:\Desktop\MSU Study\.Net\Lab\DelegateWithLambda\obj\Debug\net6.0\DelegateWithLambda.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\MSU Study\.Net\Lab\DelegateWithLambda\obj\Debug\net6.0\DelegateWithLambda.AssemblyInfoInputs.cache
+E:\Desktop\MSU Study\.Net\Lab\DelegateWithLambda\obj\Debug\net6.0\DelegateWithLambda.AssemblyInfo.cs
+E:\Desktop\MSU Study\.Net\Lab\DelegateWithLambda\obj\Debug\net6.0\DelegateWithLambda.csproj.CoreCompileInputs.cache
+E:\Desktop\MSU Study\.Net\Lab\DelegateWithLambda\obj\Debug\net6.0\DelegateWithLambda.dll
+E:\Desktop\MSU Study\.Net\Lab\DelegateWithLambda\obj\Debug\net6.0\ref\DelegateWithLambda.dll
+E:\Desktop\MSU Study\.Net\Lab\DelegateWithLambda\obj\Debug\net6.0\DelegateWithLambda.pdb
+E:\Desktop\MSU Study\.Net\Lab\DelegateWithLambda\obj\Debug\net6.0\DelegateWithLambda.genruntimeconfig.cache

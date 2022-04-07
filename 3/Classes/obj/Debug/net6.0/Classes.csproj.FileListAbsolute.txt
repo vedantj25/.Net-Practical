@@ -1,0 +1,15 @@
+E:\Desktop\MSU Study\.Net\Lab\3\Classes\bin\Debug\net6.0\Classes.exe
+E:\Desktop\MSU Study\.Net\Lab\3\Classes\bin\Debug\net6.0\Classes.deps.json
+E:\Desktop\MSU Study\.Net\Lab\3\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+E:\Desktop\MSU Study\.Net\Lab\3\Classes\bin\Debug\net6.0\Classes.dll
+E:\Desktop\MSU Study\.Net\Lab\3\Classes\bin\Debug\net6.0\ref\Classes.dll
+E:\Desktop\MSU Study\.Net\Lab\3\Classes\bin\Debug\net6.0\Classes.pdb
+E:\Desktop\MSU Study\.Net\Lab\3\Classes\obj\Debug\net6.0\Classes.csproj.AssemblyReference.cache
+E:\Desktop\MSU Study\.Net\Lab\3\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\MSU Study\.Net\Lab\3\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+E:\Desktop\MSU Study\.Net\Lab\3\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+E:\Desktop\MSU Study\.Net\Lab\3\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+E:\Desktop\MSU Study\.Net\Lab\3\Classes\obj\Debug\net6.0\Classes.dll
+E:\Desktop\MSU Study\.Net\Lab\3\Classes\obj\Debug\net6.0\ref\Classes.dll
+E:\Desktop\MSU Study\.Net\Lab\3\Classes\obj\Debug\net6.0\Classes.pdb
+E:\Desktop\MSU Study\.Net\Lab\3\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache

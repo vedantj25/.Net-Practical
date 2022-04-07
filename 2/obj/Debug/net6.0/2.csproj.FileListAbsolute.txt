@@ -1,0 +1,14 @@
+E:\Desktop\MSU Study\.Net\Lab\2\bin\Debug\net6.0\2.exe
+E:\Desktop\MSU Study\.Net\Lab\2\bin\Debug\net6.0\2.deps.json
+E:\Desktop\MSU Study\.Net\Lab\2\bin\Debug\net6.0\2.runtimeconfig.json
+E:\Desktop\MSU Study\.Net\Lab\2\bin\Debug\net6.0\2.dll
+E:\Desktop\MSU Study\.Net\Lab\2\bin\Debug\net6.0\ref\2.dll
+E:\Desktop\MSU Study\.Net\Lab\2\bin\Debug\net6.0\2.pdb
+E:\Desktop\MSU Study\.Net\Lab\2\obj\Debug\net6.0\2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\MSU Study\.Net\Lab\2\obj\Debug\net6.0\2.AssemblyInfoInputs.cache
+E:\Desktop\MSU Study\.Net\Lab\2\obj\Debug\net6.0\2.AssemblyInfo.cs
+E:\Desktop\MSU Study\.Net\Lab\2\obj\Debug\net6.0\2.csproj.CoreCompileInputs.cache
+E:\Desktop\MSU Study\.Net\Lab\2\obj\Debug\net6.0\2.dll
+E:\Desktop\MSU Study\.Net\Lab\2\obj\Debug\net6.0\ref\2.dll
+E:\Desktop\MSU Study\.Net\Lab\2\obj\Debug\net6.0\2.pdb
+E:\Desktop\MSU Study\.Net\Lab\2\obj\Debug\net6.0\2.genruntimeconfig.cache

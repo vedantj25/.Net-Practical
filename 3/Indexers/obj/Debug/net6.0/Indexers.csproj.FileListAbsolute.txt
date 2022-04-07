@@ -1,0 +1,15 @@
+E:\Desktop\MSU Study\.Net\Lab\3\Indexers\bin\Debug\net6.0\Indexers.exe
+E:\Desktop\MSU Study\.Net\Lab\3\Indexers\bin\Debug\net6.0\Indexers.deps.json
+E:\Desktop\MSU Study\.Net\Lab\3\Indexers\bin\Debug\net6.0\Indexers.runtimeconfig.json
+E:\Desktop\MSU Study\.Net\Lab\3\Indexers\bin\Debug\net6.0\Indexers.dll
+E:\Desktop\MSU Study\.Net\Lab\3\Indexers\bin\Debug\net6.0\ref\Indexers.dll
+E:\Desktop\MSU Study\.Net\Lab\3\Indexers\bin\Debug\net6.0\Indexers.pdb
+E:\Desktop\MSU Study\.Net\Lab\3\Indexers\obj\Debug\net6.0\Indexers.csproj.AssemblyReference.cache
+E:\Desktop\MSU Study\.Net\Lab\3\Indexers\obj\Debug\net6.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\MSU Study\.Net\Lab\3\Indexers\obj\Debug\net6.0\Indexers.AssemblyInfoInputs.cache
+E:\Desktop\MSU Study\.Net\Lab\3\Indexers\obj\Debug\net6.0\Indexers.AssemblyInfo.cs
+E:\Desktop\MSU Study\.Net\Lab\3\Indexers\obj\Debug\net6.0\Indexers.csproj.CoreCompileInputs.cache
+E:\Desktop\MSU Study\.Net\Lab\3\Indexers\obj\Debug\net6.0\Indexers.dll
+E:\Desktop\MSU Study\.Net\Lab\3\Indexers\obj\Debug\net6.0\ref\Indexers.dll
+E:\Desktop\MSU Study\.Net\Lab\3\Indexers\obj\Debug\net6.0\Indexers.pdb
+E:\Desktop\MSU Study\.Net\Lab\3\Indexers\obj\Debug\net6.0\Indexers.genruntimeconfig.cache

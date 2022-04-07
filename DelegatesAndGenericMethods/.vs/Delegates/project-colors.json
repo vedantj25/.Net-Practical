@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "18498424-4873-4c2f-8e4e-475fed894ee7": {
+      "ProjectGuid": "18498424-4873-4c2f-8e4e-475fed894ee7",
+      "DisplayName": "DelegatesAndGenericMethods",
+      "ColorIndex": 0
+    },
+    "7fb634e3-d0db-4ba0-9e80-53cc9aef57a8": {
+      "ProjectGuid": "7fb634e3-d0db-4ba0-9e80-53cc9aef57a8",
+      "DisplayName": "DelegateWithLambda",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

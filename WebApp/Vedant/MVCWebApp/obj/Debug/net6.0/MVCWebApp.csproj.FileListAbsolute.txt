@@ -1,0 +1,126 @@
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\appsettings.Development.json
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\appsettings.json
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\MVCWebApp.staticwebassets.runtime.json
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\MVCWebApp.exe
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\MVCWebApp.deps.json
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\MVCWebApp.runtimeconfig.json
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\MVCWebApp.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\MVCWebApp.pdb
+D:\.Net\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.csproj.AssemblyReference.cache
+D:\.Net\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.AssemblyInfoInputs.cache
+D:\.Net\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.AssemblyInfo.cs
+D:\.Net\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.csproj.CoreCompileInputs.cache
+D:\.Net\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.RazorAssemblyInfo.cache
+D:\.Net\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.RazorAssemblyInfo.cs
+D:\.Net\Vedant\MVCWebApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\.Net\Vedant\MVCWebApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\.Net\Vedant\MVCWebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\.Net\Vedant\MVCWebApp\obj\Debug\net6.0\scopedcss\bundle\MVCWebApp.styles.css
+D:\.Net\Vedant\MVCWebApp\obj\Debug\net6.0\scopedcss\projectbundle\MVCWebApp.bundle.scp.css
+D:\.Net\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.dll
+D:\.Net\Vedant\MVCWebApp\obj\Debug\net6.0\refint\MVCWebApp.dll
+D:\.Net\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.pdb
+D:\.Net\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.genruntimeconfig.cache
+D:\.Net\Vedant\MVCWebApp\obj\Debug\net6.0\ref\MVCWebApp.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\dotnet-ef.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\.Net\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.csproj.CopyComplete
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\Humanizer.dll
+D:\.Net\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.csproj.AssemblyReference.cache
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.AssemblyInfoInputs.cache
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.AssemblyInfo.cs
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.csproj.CoreCompileInputs.cache
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.RazorAssemblyInfo.cache
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.RazorAssemblyInfo.cs
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\obj\Debug\net6.0\ref\MVCWebApp.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.pdb
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\appsettings.Development.json
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\appsettings.json
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\MVCWebApp.staticwebassets.runtime.json
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\MVCWebApp.exe
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\MVCWebApp.deps.json
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\MVCWebApp.runtimeconfig.json
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\MVCWebApp.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\ref\MVCWebApp.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\MVCWebApp.pdb
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\Humanizer.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\dotnet-ef.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\obj\Debug\net6.0\staticwebassets.build.json
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\obj\Debug\net6.0\staticwebassets.development.json
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\obj\Debug\net6.0\scopedcss\bundle\MVCWebApp.styles.css
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\obj\Debug\net6.0\scopedcss\projectbundle\MVCWebApp.bundle.scp.css
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.csproj.CopyComplete
+E:\Desktop\MSU Study\.Net\Lab\WebApp\Vedant\MVCWebApp\obj\Debug\net6.0\MVCWebApp.genruntimeconfig.cache
